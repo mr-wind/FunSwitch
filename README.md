@@ -1,6 +1,7 @@
 FunSwitch
 ==================
 
+Thanks to [ztelur](https://github.com/ztelur/FunSwitch)
 
 This is a funny switch for Android<br>
 一个有趣的switch
